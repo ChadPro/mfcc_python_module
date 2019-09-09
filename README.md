@@ -1,4 +1,7 @@
 # mfcc_python_module
+## 0. 说明
+本代码库用于安装一个python3环境，用于计算mfcc的模块，模块由c++编写，具体计算细节可以查看mfcc.cpp.
+
 ## 1. Install
 编辑**mfcc.cpp**第３行
 ```

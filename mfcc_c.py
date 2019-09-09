@@ -3,7 +3,7 @@ import numpy as np
 
 """ Test one time
 """
-mfcc_features = QSAudio.mfcc("test/test_0.wav", 20)
+mfcc_features = QSAudio.mfcc("test/test_1.wav", 20)
 mfcc_features = np.array(mfcc_features, dtype=np.float32)
 mfcc_features = np.reshape(mfcc_features, (-1, 20))
 print(mfcc_features.shape)
