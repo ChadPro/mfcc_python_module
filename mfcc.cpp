@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "/home/zxzhao/anaconda2/envs/learn/include/python3.5m/Python.h"
+#include "/home/**/anaconda2/envs/learn/include/python3.5m/Python.h"
 
 int filterNum = 20;
 int sampleRate = 16000;
