@@ -1,3 +1,5 @@
+# -- coding: utf-8 --
+# Copyright 2019 The LongYan. All Rights Reserved.
 import QSAudio
 import numpy as np
 
