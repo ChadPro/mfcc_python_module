@@ -22,4 +22,4 @@ mfcc_features = QSAudio.mfcc("test/test_0.wav", 20)
 第一个参数是wav文件地址，第二个参数是filters数量
 
 ## 3. 说明
-资源中，mfcc_ori.py为纯python编写的相同功能代码，可以用来做对比
+资源中，mfcc_ori.py为纯python编写的相同功能代码，而mfcc_librosa.py为使用librosa库的脚本，可以用来做对比
